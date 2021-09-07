@@ -32,11 +32,3 @@ public class Exercise09 {
         }
     }
 }
-
-/*
-        if( windowMeasure > brickWidth + brickLength || windowMeasure > brickHeight + brickWidth) {
-            System.out.println("N");
-        } else {
-            System.out.println("S");
-        }
- */
