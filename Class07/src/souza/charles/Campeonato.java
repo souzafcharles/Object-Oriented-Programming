@@ -22,7 +22,6 @@ class Campeonato{
     public int sizeOfTime(){
         return times.size();
     }
-
     public Iterator<Time> iteratorTime(){
         return times.iterator();
     }
