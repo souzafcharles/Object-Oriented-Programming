@@ -1,6 +1,7 @@
 package souza.charles;
 
 public class Principal {
+    
     public static void main(String[] args) throws MinhasExcecoes {
         preencherBanco();
         AppCli.executar();
