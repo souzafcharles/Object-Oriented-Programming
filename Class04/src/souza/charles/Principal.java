@@ -1,6 +1,7 @@
 package souza.charles;
 
 public class Principal {
+    
     public static void main(String[] args) {
         //cria um personagem do desenho
         Personagem simpson = new Personagem("Homer Simpson", 45);
