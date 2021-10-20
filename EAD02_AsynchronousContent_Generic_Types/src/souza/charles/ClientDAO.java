@@ -63,4 +63,3 @@ public class ClientDAO implements GenericDAO<Client, String>{
         }
     }
 }
-
