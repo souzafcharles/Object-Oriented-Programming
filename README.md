@@ -22,7 +22,7 @@
 - Class 06: [Object-oriented: Inheritance, Polymorphism, Interface and Abstract Classes](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class06)
 - Class 07: [Collections and Object Mappings](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class07)
 - Class 08: [Exceptions Handling](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class08)
-- Class 09: [Practical Exercise: Abstractions and Collections](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Practical_Exercise_Abstractions_and_Collections)
+- Class 09: [Practical Exercise: Abstractions and Collections](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class09)
 
 
 
