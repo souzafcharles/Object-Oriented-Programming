@@ -1,6 +1,6 @@
 package souza.charles;
 /*
-Class title: Object-Oriented Programming
+Subject title: Object-Oriented Programming
 Lecturer: Prof. Dr. Lucas Bueno Ruas de Oliveira
 Example adapted by: Charles Fernandes de Souza
 Date: August 23, 2021
