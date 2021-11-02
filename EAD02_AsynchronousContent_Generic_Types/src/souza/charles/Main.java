@@ -5,7 +5,6 @@ Lecturer: Prof. Dr. Lucas Bueno Ruas de Oliveira
 Asynchronous Content Generic Types by: Charles Fernandes de Souza
 Date: October 12, 2021
 */
-
 import java.time.LocalDate;
 
 public class Main {
