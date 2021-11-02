@@ -5,7 +5,6 @@ Lecturer: Prof. Dr. Lucas Bueno Ruas de Oliveira
 Example adapted by: Charles Fernandes de Souza
 Date: August 23, 2021
 */
-
 import java.util.Scanner;
 
 public class ArrayExamples {
@@ -63,4 +62,3 @@ public class ArrayExamples {
         }
     }
 }
-
