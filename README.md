@@ -20,6 +20,7 @@
 - Class 02: [Java: platform, data types, operators and basic commands](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class02)
 - Class 03: [Java: arrays, repeat loops of break and continue commands](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class03)
 - Class 04: [Object-oriented: initial concepts](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class04)
+- Class 05: [Practical Exercise: Object Classes](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class05) 
 - Class 06: [Object-oriented: Inheritance, Polymorphism, Interface and Abstract Classes](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class06)
 - Class 07: [Collections and Object Mappings](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class07)
 - Class 08: [Exceptions Handling](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class08)
