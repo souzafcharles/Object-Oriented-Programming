@@ -1,5 +1,10 @@
 package souza.charles;
-
+/*
+Subject title: Object-Oriented Programming
+Lecturer: Prof. Dr. Lucas Bueno Ruas de Oliveira
+Example adapted by: Charles Fernandes de Souza
+Date: 03 November, 2021
+*/
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
