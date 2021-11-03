@@ -1,4 +1,10 @@
 package souza.charles.application.main;
+/*
+Subject title: Object-Oriented Programming
+Lecturer: Prof. Dr. Lucas Bueno Ruas de Oliveira
+Example adapted by: Charles Fernandes de Souza
+Date: 03 November, 2021
+*/
 
 import souza.charles.application.repository.InMemoryBookDAO;
 import souza.charles.application.repository.InMemoryTransactionDAO;
