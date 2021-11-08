@@ -31,6 +31,7 @@
 - List of Exercises [Part 02](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/ExerciseList02)
 - EAD 01 - Asynchronous Content: [Strings](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/EAD01_AsynchronousContent_Strings)
 - EAD 02 - Asynchronous Content: [Generic Types](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/EAD02_AsynchronousContent_Generic_Types)
+- EAD 03 - Asynchronous Content: [ Consolidating Knowledge - Part I: Domain Construction](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/EAD03_Consolidating_Knowledge_Part_I_Domain_Building)
 
 
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
