@@ -1,5 +1,10 @@
 package souza.charles.view;
-
+/*
+Subject title: Object-Oriented Programming
+Lecturer: Prof. Dr. Lucas Bueno Ruas de Oliveira
+Example adapted by: Charles Fernandes de Souza
+Date: October 25, 2021
+*/
 public class WindowReverterController {
     private WindowReverter ui;
 
