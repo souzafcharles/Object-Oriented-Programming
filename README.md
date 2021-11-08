@@ -25,6 +25,7 @@
 - Class 07: [Collections and Object Mappings](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class07)
 - Class 08: [Exceptions Handling](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class08)
 - Class 09: [Practical Exercise: Abstractions and Collections](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class09)
+- Class 10: [Graphical Interfaces: Introduction and JavaFX](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/Class10)
 
 - List of Exercises [Part 01](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/ExerciseList01)
 - List of Exercises [Part 02](https://github.com/souzafcharles/Object-Oriented-Programming/tree/master/ExerciseList02)
