@@ -1,4 +1,10 @@
 package souza.charles;
+/*
+Subject title: Object-Oriented Programming
+Lecturer: Prof. Dr. Lucas Bueno Ruas de Oliveira
+Example adapted by: Charles Fernandes de Souza
+Date: October 04, 2021
+*/
 
 import java.util.Objects;
 
