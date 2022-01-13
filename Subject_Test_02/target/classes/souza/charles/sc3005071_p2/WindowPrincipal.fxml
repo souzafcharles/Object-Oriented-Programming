@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="426.0" prefWidth="804.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="souza.charles.sc3005071_p2.controller.WindowPrincipalController">
+   <children>
+      <AnchorPane layoutX="8.0" layoutY="3.0" prefHeight="420.0" prefWidth="789.0" AnchorPane.bottomAnchor="3.0" AnchorPane.leftAnchor="8.0" AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="3.0">
+         <children>
+            <TableView fx:id="tableView" layoutX="5.0" layoutY="14.0" prefHeight="357.0" prefWidth="780.0" AnchorPane.bottomAnchor="49.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="4.0" AnchorPane.topAnchor="14.0">
+              <columns>
+                <TableColumn prefWidth="231.99996376037598" text="Apostador 01" />
+                <TableColumn prefWidth="178.4000244140625" text="Apostador 02" />
+                  <TableColumn prefWidth="89.60006713867188" text="Jogada 01" />
+                  <TableColumn prefWidth="110.39996337890625" text="Jogada 02" />
+                  <TableColumn id="tbTableViewApostador" prefWidth="170.39996337890625" text="Ganhador" />
+              </columns>
+            </TableView>
+            <TextField fx:id="fillBusca" layoutX="597.0" layoutY="380.0" prefHeight="26.0" prefWidth="186.0" />
+            <Label fx:id="lbBusca" layoutX="560.0" layoutY="384.0" text="Busca" AnchorPane.bottomAnchor="18.399999999999977" AnchorPane.leftAnchor="560.0" AnchorPane.rightAnchor="197.79999999999995" AnchorPane.topAnchor="384.0" />
+            <Button fx:id="btInserir" layoutX="14.0" layoutY="380.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="62.0" text="Inserir" AnchorPane.bottomAnchor="13.600000000000001" AnchorPane.topAnchor="380.0" />
+            <Button fx:id="btAtualizar" layoutX="91.0" layoutY="380.0" mnemonicParsing="false" text="Atualizar" AnchorPane.bottomAnchor="13.600000000000001" AnchorPane.topAnchor="380.0" />
+            <Button fx:id="btDeletar" layoutX="174.0" layoutY="380.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="62.0" text="Deletar" AnchorPane.bottomAnchor="13.600000000000001" AnchorPane.leftAnchor="173.99999999999997" AnchorPane.rightAnchor="552.6" AnchorPane.topAnchor="380.0" />
+            <Button layoutX="255.0" layoutY="380.0" mnemonicParsing="false" text="Novo Jogo" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

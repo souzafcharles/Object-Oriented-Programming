@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="546.0" prefWidth="513.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane layoutX="3.0" layoutY="4.0" prefHeight="537.0" prefWidth="507.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="3.0" AnchorPane.rightAnchor="3.0" AnchorPane.topAnchor="4.0">
+         <children>
+            <Text layoutX="33.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AMBIENTE DO JOGO" />
+            <Label layoutX="33.0" layoutY="75.0" text="Jogador 01" />
+            <Label layoutX="18.0" layoutY="218.0" text="Jogador 02" />
+            <DatePicker fx:id="dtData" layoutX="316.0" layoutY="30.0" />
+            <Label layoutX="270.0" layoutY="34.0" text="Data" />
+            <Label layoutX="56.0" layoutY="165.0" text="Juiz" />
+            <Label layoutX="9.0" layoutY="265.0" text="Jogador Clube" />
+            <Label layoutX="270.0" layoutY="75.0" text="Jogada 01" />
+            <Label layoutX="270.0" layoutY="243.0" text="Jogada 02" />
+            <Label layoutX="56.0" layoutY="382.0" text="Prêmio" />
+            <Label layoutX="63.0" layoutY="426.0" text="Valor" />
+            <Label layoutX="12.0" layoutY="123.0" text="Numero de Divócios" />
+            <TextField fx:id="txtJuiz" layoutX="88.0" layoutY="161.0" prefHeight="25.0" prefWidth="389.0" />
+            <ChoiceBox fx:id="cbJogador01" layoutX="102.0" layoutY="71.0" prefWidth="150.0" />
+            <ChoiceBox layoutX="341.0" layoutY="71.0" prefWidth="150.0" />
+            <ChoiceBox fx:id="cbJogador2" layoutX="93.0" layoutY="214.0" prefWidth="150.0" />
+            <ChoiceBox fx:id="cbJogada2" layoutX="341.0" layoutY="239.0" prefWidth="150.0" />
+            <ChoiceBox fx:id="cbJogadorClube" layoutX="93.0" layoutY="261.0" prefWidth="150.0" />
+            <Spinner fx:id="spNumDivorcios" layoutX="127.0" layoutY="119.0" />
+            <TextField fx:id="txtPremio" layoutX="102.0" layoutY="378.0" />
+            <Spinner fx:id="spValor" layoutX="102.0" layoutY="422.0" />
+            <Label layoutX="36.0" layoutY="478.0" text="Ganhador" />
+            <Label fx:id="lbResultado" layoutX="97.0" layoutY="478.0" text="--" />
+            <Button layoutX="366.0" layoutY="425.0" mnemonicParsing="false" prefHeight="74.0" prefWidth="122.0" text="Jogar" />
+            <RadioButton fx:id="rcSim" layoutX="360.0" layoutY="370.0" mnemonicParsing="false" text="Sim" />
+            <RadioButton fx:id="rcNao" layoutX="359.0" layoutY="394.0" mnemonicParsing="false" text="Não" />
+            <Label layoutX="345.0" layoutY="343.0" text="Item de Família?" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
