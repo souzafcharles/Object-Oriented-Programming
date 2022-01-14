@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/souzafcharles/Object-Oriented-Programming)
 
 
-# :symbols: Object-Oriented Programming
+# :mortar_board: Object-Oriented Programming
 
 :triangular_flag_on_post: Lecturer: Prof. Dr.Lucas Bueno Ruas de Oliveira
 
