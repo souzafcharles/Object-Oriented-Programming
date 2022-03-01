@@ -6,7 +6,7 @@
 
 # :mortar_board: Object-Oriented Programming
 
-:triangular_flag_on_post: Lecturer: Prof. Dr.Lucas Bueno Ruas de Oliveira
+:triangular_flag_on_post: Lecturer: Prof. Dr. Lucas Bueno Ruas de Oliveira
 
 :computer: Technologist degree in System Analysis and Development at [IFSP](https://www.ifsp.edu.br/), São Carlos, SP, Brazil
 
